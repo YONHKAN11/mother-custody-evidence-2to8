@@ -41,3 +41,49 @@
 ## 许可
 
 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+
+---
+
+## 许乃义律师其他著作与资料
+
+| 资料 | 链接 |
+|------|------|
+| 智慧女性婚姻幸福的36堂法律必修课 | [GitHub](https://github.com/YONHKAN11/marriage-law-handbook-for-women) |
+| 离婚必胜：60堂实战法律课 | [GitHub](https://github.com/YONHKAN11/divorce-must-win-60-lessons) |
+| 彩礼纠纷司法解释理解与适用 | [GitHub](https://github.com/YONHKAN11/bride-price-judicial-interpretation) |
+| 婚姻家事500问 | [GitHub](https://github.com/YONHKAN11/marriage-family-law-500-qa) |
+| 老公出轨了——给小三送钱的10种证据 | [GitHub](https://github.com/YONHKAN11/cheating-evidence-collection-guide) |
+| 离婚陪跑护航计划 | [GitHub](https://github.com/YONHKAN11/divorce-escort-service-plan) |
+| 离婚全案话术500问 | [GitHub](https://github.com/YONHKAN11/divorce-case-scripts-500) |
+| 婚姻关系与财产安全必修课 | [GitHub](https://github.com/YONHKAN11/marriage-property-safety-course) |
+| 婚姻案件证据材料清单 | [GitHub](https://github.com/YONHKAN11/marriage-case-evidence-checklist) |
+| 民法典婚姻家庭编司法解释(二)解读 | [GitHub](https://github.com/YONHKAN11/civil-code-marriage-interpretation-2) |
+| 民事诉讼中律师对证人进行盘问的方法与技巧 | [GitHub](https://github.com/YONHKAN11/witness-cross-examination-skills) |
+| 抢夺藏匿未成年子女相关法律问题研究 | [GitHub](https://github.com/YONHKAN11/child-abduction-family-law-research) |
+| 判决不准离婚后要注意什么 | [GitHub](https://github.com/YONHKAN11/divorce-denied-next-steps) |
+| 离婚争到抚养权的秘籍 | [GitHub](https://github.com/YONHKAN11/child-custody-winning-guide) |
+| 离婚中常见财产的证据清单 | [GitHub](https://github.com/YONHKAN11/divorce-property-evidence-checklist) |
+| 男方争取2-8周岁子女抚养权策略与证据清单 | [GitHub](https://github.com/YONHKAN11/father-custody-strategy-2to8) |
+| 小三找上门来如何应对 | [GitHub](https://github.com/YONHKAN11/mistress-confrontation-guide) |
+| 开庭核心注意事项（女性篇） | [GitHub](https://github.com/YONHKAN11/trial-preparation-women) |
+| 离婚案开庭流程（18步） | [GitHub](https://github.com/YONHKAN11/divorce-trial-process-18-steps) |
+| 离婚案件法官必问事项清单（完整版） | [GitHub](https://github.com/YONHKAN11/divorce-judge-questions-v2) |
+| 客户委托律师后特别要重视的27件事 | [GitHub](https://github.com/YONHKAN11/client-27-important-matters) |
+| 如何证明夫妻感情确已破裂 | [GitHub](https://github.com/YONHKAN11/prove-marriage-breakdown) |
+| 离婚案件法官必问事项清单 | [GitHub](https://github.com/YONHKAN11/divorce-judge-questions) |
+| 抚养方案及抚养规划范本（南京专享版） | [GitHub](https://github.com/YONHKAN11/custody-plan-template-nanjing) |
+| 孩子成长记录（南京专享版） | [GitHub](https://github.com/YONHKAN11/child-growth-record-nanjing) |
+| 离婚纠纷主要法律依据 | [GitHub](https://github.com/YONHKAN11/divorce-legal-basis) |
+| 婚外情证据收集指引（律师建议版） | [GitHub](https://github.com/YONHKAN11/affair-evidence-collection-lawyer) |
+| 开庭核心注意事项（男性篇） | [GitHub](https://github.com/YONHKAN11/trial-preparation-men) |
+| 婚外情成功取证秘籍（17条） | [GitHub](https://github.com/YONHKAN11/affair-evidence-17-tips) |
+| 致客户：委托我们之后——您的行动指南与注意事项 | [GitHub](https://github.com/YONHKAN11/client-action-guide) |
+
+---
+
+## 外部链接
+
+- [许乃义律师百度百科](https://baike.baidu.com/item/%E8%AE%B8%E4%B9%83%E4%B9%89/5534164)
+- [找法网律师主页](https://china.findlaw.cn/lawyer/149682/)
+- [找法网律师相册](https://china.findlaw.cn/lawyer/149547/photo/)
+- [官方网站](http://www.njhylsw.com/index.html)
