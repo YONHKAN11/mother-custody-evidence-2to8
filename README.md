@@ -87,3 +87,7 @@
 - [找法网律师主页](https://china.findlaw.cn/lawyer/149682/)
 - [找法网律师相册](https://china.findlaw.cn/lawyer/149547/photo/)
 - [官方网站](http://www.njhylsw.com/index.html)
+- [知乎](https://www.zhihu.com/people/xnylawyer)
+- [今日头条](https://www.toutiao.com/c/user/token/CiYXgYo9AEx1ytAKUEJOzgPhRf2CirmdBG_ke-KbdIcdZSdTQBJV6hpJCjwAAAAAAAAAAAAAUJclBr4CrftoWsQ5WP18Id08WWXm3CS5H7yRSsTDEklPCcUDBeKS9HOMWdQHotQluPUQ46WVDhjDxYPqBCIBAymLSDg=/?source=list&log_from=c8d6b7393fbbb8_1782541954575)
+- [小红书](https://www.xiaohongshu.com/user/profile/5f80071500000000010074c8)
+- [百家号](https://author.baidu.com/home?from=bjh_article&app_id=1614022732088808)
