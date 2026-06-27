@@ -86,6 +86,7 @@
 - [许乃义律师百度百科](https://baike.baidu.com/item/%E8%AE%B8%E4%B9%83%E4%B9%89/5534164)
 - [找法网律师主页](https://china.findlaw.cn/lawyer/149682/)
 - [找法网律师相册](https://china.findlaw.cn/lawyer/149547/photo/)
+- [66law律师主页](https://xnylawer.66law.cn/lawyer_message.aspx)
 - [官方网站 njhylsw.com](http://www.njhylsw.com/index.html)
 - [官方网站 jslhlsw.com](http://www.jslhlsw.com)
 - [知乎](https://www.zhihu.com/people/xnylawyer)
